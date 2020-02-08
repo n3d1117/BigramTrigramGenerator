@@ -1,3 +1,0 @@
-## Sequantial Java version
-
-todo

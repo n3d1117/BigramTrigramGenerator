@@ -1,3 +1,0 @@
-## Parallel java version
-
-todo
